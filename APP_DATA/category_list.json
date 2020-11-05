@@ -7,13 +7,13 @@
             {
                 "id":9,
                 "name":"Amazon",
-                "logo": "https://shoptopstores.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/09/04222452/amazon.png",
+                "logo": "https://shoptopstores.com/APP_DATA/stores/amazon.png",
                 "url": "https://www.amazon.com"
             },
             {
                 "id":10,
-                "name":"Walmart",
-                "logo": "https://shoptopstores.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/08/15151714/walmart.jpg",
+                "name":"Best Buy",
+                "logo": "https://shoptopstores.com/APP_DATA/stores/bestbuy.png",
                 "url": "https://www.walmart.com"
             }
         ]
@@ -26,31 +26,31 @@
             {
                 "id":1,
                 "name":"FashionNova",
-                "logo": "https://shoptopstores.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/09/13035540/fashionnova.png",
+                "logo": "https://shoptopstores.com/APP_DATA/stores/fashionnova.png",
                 "url": "https://www.fashionnova.com"
             },
             {
                 "id":2,
                 "name":"FOREVER 21",
-                "logo": "https://shoptopstores.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/09/13142952/forever21.png",
+                "logo": "https://shoptopstores.com/APP_DATA/stores/forever21.png",
                 "url": "https://www.forever21.com/us/shop"
             },
             {
                 "id":3,
                 "name":"accessorize",
-                "logo": "https://shoptopstores.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/09/27103310/accesorize.png",
+                "logo": "https://shoptopstores.com/APP_DATA/stores/accesorize.png",
                 "url": "https://www.accessorize.com/uk/"
             },
             {
                 "id":4,
                 "name":"GAP",
-                "logo": "https://shoptopstores.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/09/20184251/gap.png",
+                "logo": "https://shoptopstores.com/APP_DATA/stores/gap.png",
                 "url": "https://www.gap.com"
             },
             {
                 "id":5,
                 "name":"Victorias Secret",
-                "logo": "https://shoptopstores.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/09/13144942/victorias.png",
+                "logo": "https://shoptopstores.com/APP_DATA/stores/victorias.png",
                 "url": "https://www.victoriassecret.com"
             }
         ]
@@ -63,13 +63,13 @@
             {
                 "id":6,
                 "name":"Fenty Beauty",
-                "logo": "https://shoptopstores.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/09/13142952/forever21.png",
+                "logo": "https://shoptopstores.com/APP_DATA/stores/fenty1.png",
                 "url": "https://www.forever21.com/us/shop"
             },
             {
                 "id":7,
                 "name":"Lancome",
-                "logo": "https://shoptopstores.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/09/13142952/forever21.png",
+                "logo": "https://shoptopstores.com/APP_DATA/stores/lancome.png",
                 "url": "https://www.forever21.com/us/shop"
             },
         ]
@@ -82,7 +82,9 @@
             {
                 "id":8,
                 "name":"GAP",
-                "logo": "https://shoptopstores.s3.eu-west-2.amazonaws.com/wp-content/uploads/2020/09/20184251/gap.png",
+                "logo": "https://shoptopstores.com/APP_DATA/stores/apple.png",
                 "url": "https://www.gap.com"
             }
         ]
+    }
+]
