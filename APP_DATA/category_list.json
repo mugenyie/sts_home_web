@@ -1,90 +1,94 @@
-[
-    {
-        "id": 4,
-        "name": "General Retail",
-        "short_description": "fgeneral retail merchandise",
-        "stores" : [
-            {
-                "id":9,
-                "name":"Amazon",
-                "logo": "https://shoptopstores.com/APP_DATA/stores/amazon.png",
-                "url": "https://www.amazon.com"
-            },
-            {
-                "id":10,
-                "name":"Best Buy",
-                "logo": "https://shoptopstores.com/APP_DATA/stores/bestbuy.png",
-                "url": "https://www.walmart.com"
-            }
-        ]
-    },
-    {
-        "id": 1,
-        "name": "Fashion",
-        "short_description": "clothing stores and aparel",
-        "stores" : [
-            {
-                "id":1,
-                "name":"FashionNova",
-                "logo": "https://shoptopstores.com/APP_DATA/stores/fashionnova.png",
-                "url": "https://www.fashionnova.com"
-            },
-            {
-                "id":2,
-                "name":"FOREVER 21",
-                "logo": "https://shoptopstores.com/APP_DATA/stores/forever21.png",
-                "url": "https://www.forever21.com/us/shop"
-            },
-            {
-                "id":3,
-                "name":"accessorize",
-                "logo": "https://shoptopstores.com/APP_DATA/stores/accesorize.png",
-                "url": "https://www.accessorize.com/uk/"
-            },
-            {
-                "id":4,
-                "name":"GAP",
-                "logo": "https://shoptopstores.com/APP_DATA/stores/gap.png",
-                "url": "https://www.gap.com"
-            },
-            {
-                "id":5,
-                "name":"Victorias Secret",
-                "logo": "https://shoptopstores.com/APP_DATA/stores/victorias.png",
-                "url": "https://www.victoriassecret.com"
-            }
-        ]
-    },
-    {
-        "id": 2,
-        "name": "Beauty & Fragrance",
-        "short_description": "beauty and fragrance stores",
-        "stores" : [
-            {
-                "id":6,
-                "name":"Fenty Beauty",
-                "logo": "https://shoptopstores.com/APP_DATA/stores/fenty1.png",
-                "url": "https://www.forever21.com/us/shop"
-            },
-            {
-                "id":7,
-                "name":"Lancome",
-                "logo": "https://shoptopstores.com/APP_DATA/stores/lancome.png",
-                "url": "https://www.forever21.com/us/shop"
-            },
-        ]
-    },
-    {
-        "id": 3,
-        "name": "Gadgets",
-        "short_description": "gadget stores",
-        "stores" : [
-            {
-                "id":8,
-                "name":"GAP",
-                "logo": "https://shoptopstores.com/APP_DATA/stores/apple.png",
-                "url": "https://www.gap.com"
-            }
-        ]
-    }
-]
+{
+    "IOS_APP_VERSION": "3.4",
+    "ANDROID_APP_VERSION": "3.2",
+    "STORES": [
+        {
+            "id": 4,
+            "name": "General Retail",
+            "short_description": "fgeneral retail merchandise",
+            "stores" : [
+                {
+                    "id":9,
+                    "name":"Amazon",
+                    "logo": "https://shoptopstores.com/APP_DATA/stores/amazon.png",
+                    "url": "https://www.amazon.com"
+                },
+                {
+                    "id":10,
+                    "name":"Best Buy",
+                    "logo": "https://shoptopstores.com/APP_DATA/stores/bestbuy.png",
+                    "url": "https://www.walmart.com"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Fashion",
+            "short_description": "clothing stores and aparel",
+            "stores" : [
+                {
+                    "id":1,
+                    "name":"FashionNova",
+                    "logo": "https://shoptopstores.com/APP_DATA/stores/fashionnova.png",
+                    "url": "https://www.fashionnova.com"
+                },
+                {
+                    "id":2,
+                    "name":"FOREVER 21",
+                    "logo": "https://shoptopstores.com/APP_DATA/stores/forever21.png",
+                    "url": "https://www.forever21.com/us/shop"
+                },
+                {
+                    "id":3,
+                    "name":"accessorize",
+                    "logo": "https://shoptopstores.com/APP_DATA/stores/accesorize.png",
+                    "url": "https://www.accessorize.com/uk/"
+                },
+                {
+                    "id":4,
+                    "name":"GAP",
+                    "logo": "https://shoptopstores.com/APP_DATA/stores/gap.png",
+                    "url": "https://www.gap.com"
+                },
+                {
+                    "id":5,
+                    "name":"Victorias Secret",
+                    "logo": "https://shoptopstores.com/APP_DATA/stores/victorias.png",
+                    "url": "https://www.victoriassecret.com"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Beauty & Fragrance",
+            "short_description": "beauty and fragrance stores",
+            "stores" : [
+                {
+                    "id":6,
+                    "name":"Fenty Beauty",
+                    "logo": "https://shoptopstores.com/APP_DATA/stores/fenty1.png",
+                    "url": "https://www.forever21.com/us/shop"
+                },
+                {
+                    "id":7,
+                    "name":"Lancome",
+                    "logo": "https://shoptopstores.com/APP_DATA/stores/lancome.png",
+                    "url": "https://www.forever21.com/us/shop"
+                },
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Gadgets",
+            "short_description": "gadget stores",
+            "stores" : [
+                {
+                    "id":8,
+                    "name":"GAP",
+                    "logo": "https://shoptopstores.com/APP_DATA/stores/apple.png",
+                    "url": "https://www.gap.com"
+                }
+            ]
+        }
+    ]
+}
